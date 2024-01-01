@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "25771240108",
+    "project_id": "quanlycuahangdouong",
+    "storage_bucket": "quanlycuahangdouong.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25771240108:android:cbf8a007c8e05280d94d09",
+        "android_client_info": {
+          "package_name": "vn.phucoder.quanlycuahangdouong"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDII-XzJpklhkHCXNkbFuvI4plQds0rotQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
