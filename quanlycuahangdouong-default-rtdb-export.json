@@ -1,0 +1,203 @@
+{
+  "drink": {
+    "1703443480248": {
+      "id": 1703443480248,
+      "name": "Coca Cola",
+      "quantity": 18,
+      "unitId": 1703438731923,
+      "unitName": "Thùng"
+    },
+    "1703443512924": {
+      "id": 1703443512924,
+      "name": "Rượu",
+      "quantity": 14,
+      "unitId": 1703438745373,
+      "unitName": "Bình"
+    },
+    "1703443535640": {
+      "id": 1703443535640,
+      "name": "Bia Hà Nội",
+      "quantity": 0,
+      "unitId": 1703179547374,
+      "unitName": "Chai"
+    },
+    "1703612085203": {
+      "id": 1703612085203,
+      "name": "Sting đỏ",
+      "quantity": 50,
+      "unitId": 1703179547374,
+      "unitName": "Chai"
+    },
+    "1704119726682": {
+      "id": 1704119726682,
+      "name": "Trà Sữa",
+      "quantity": 40,
+      "unitId": 1704119663013,
+      "unitName": "Cốc"
+    }
+  },
+  "history": {
+    "1703443556656": {
+      "add": true,
+      "date": 1703437200,
+      "drinkId": 1703443535640,
+      "drinkName": "Bia Hà Nội",
+      "id": 1703443556656,
+      "price": 7,
+      "quantity": 100,
+      "totalPrice": 700,
+      "unitId": 1703179547374,
+      "unitName": "Chai"
+    },
+    "1703443567944": {
+      "add": true,
+      "date": 1703437200,
+      "drinkId": 1703443512924,
+      "drinkName": "Rượu",
+      "id": 1703443567944,
+      "price": 300,
+      "quantity": 20,
+      "totalPrice": 6000,
+      "unitId": 1703438745373,
+      "unitName": "Bình"
+    },
+    "1703443599800": {
+      "add": true,
+      "date": 1703437200,
+      "drinkId": 1703443480248,
+      "drinkName": "Coca Cola",
+      "id": 1703443599800,
+      "price": 168,
+      "quantity": 20,
+      "totalPrice": 3360,
+      "unitId": 1703438731923,
+      "unitName": "Thùng"
+    },
+    "1703443646376": {
+      "add": false,
+      "date": 1703437200,
+      "drinkId": 1703443535640,
+      "drinkName": "Bia Hà Nội",
+      "id": 1703443646376,
+      "price": 10,
+      "quantity": 20,
+      "totalPrice": 200,
+      "unitId": 1703179547374,
+      "unitName": "Chai"
+    },
+    "1703443663704": {
+      "add": false,
+      "date": 1703437200,
+      "drinkId": 1703443512924,
+      "drinkName": "Rượu",
+      "id": 1703443663704,
+      "price": 450,
+      "quantity": 1,
+      "totalPrice": 450,
+      "unitId": 1703438745373,
+      "unitName": "Bình"
+    },
+    "1703443679984": {
+      "add": false,
+      "date": 1703437200,
+      "drinkId": 1703443480248,
+      "drinkName": "Coca Cola",
+      "id": 1703443679984,
+      "price": 240,
+      "quantity": 2,
+      "totalPrice": 480,
+      "unitId": 1703438731923,
+      "unitName": "Thùng"
+    },
+    "1703528756100": {
+      "add": false,
+      "date": 1703523600,
+      "drinkId": 1703443535640,
+      "drinkName": "Bia Hà Nội",
+      "id": 1703528756100,
+      "price": 10,
+      "quantity": 80,
+      "totalPrice": 800,
+      "unitId": 1703179547374,
+      "unitName": "Chai"
+    },
+    "1703528789299": {
+      "add": false,
+      "date": 1703523600,
+      "drinkId": 1703443512924,
+      "drinkName": "Rượu",
+      "id": 1703528789299,
+      "price": 450,
+      "quantity": 5,
+      "totalPrice": 2250,
+      "unitId": 1703438745373,
+      "unitName": "Bình"
+    },
+    "1704119125925": {
+      "add": true,
+      "date": 1704042000,
+      "drinkId": 1703612085203,
+      "drinkName": "Sting đỏ",
+      "id": 1704119125925,
+      "price": 5,
+      "quantity": 100,
+      "totalPrice": 500,
+      "unitId": 1703179547374,
+      "unitName": "Chai"
+    },
+    "1704119148649": {
+      "add": false,
+      "date": 1704042000,
+      "drinkId": 1703612085203,
+      "drinkName": "Sting đỏ",
+      "id": 1704119148649,
+      "price": 10,
+      "quantity": 50,
+      "totalPrice": 500,
+      "unitId": 1703179547374,
+      "unitName": "Chai"
+    },
+    "1704119748882": {
+      "add": true,
+      "date": 1704042000,
+      "drinkId": 1704119726682,
+      "drinkName": "Trà Sữa",
+      "id": 1704119748882,
+      "price": 10,
+      "quantity": 50,
+      "totalPrice": 500,
+      "unitId": 1704119663013,
+      "unitName": "Cốc"
+    },
+    "1704119767364": {
+      "add": false,
+      "date": 1704042000,
+      "drinkId": 1704119726682,
+      "drinkName": "Trà Sữa",
+      "id": 1704119767364,
+      "price": 20,
+      "quantity": 10,
+      "totalPrice": 200,
+      "unitId": 1704119663013,
+      "unitName": "Cốc"
+    }
+  },
+  "my_unit": {
+    "1703179547374": {
+      "id": 1703179547374,
+      "name": "Chai"
+    },
+    "1703438731923": {
+      "id": 1703438731923,
+      "name": "Thùng"
+    },
+    "1703438745373": {
+      "id": 1703438745373,
+      "name": "Bình"
+    },
+    "1704119663013": {
+      "id": 1704119663013,
+      "name": "Cốc"
+    }
+  }
+}
